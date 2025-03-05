@@ -1,6 +1,6 @@
 # Hi, I'm me!
 
-<img src="./assets/github-gif1_v2.gif" alt="Typing animation" width="500" height="auto" />
+<img src="./assets/github-gif1_v2.gif" alt="Typing animation" width="300" height="auto" />
 
 <!-- START QUOTE -->
 
