@@ -1,6 +1,6 @@
 # Hi, I'm me!
 
-## ![Typing animation](./assets/github-gif1.gif)
+### ![Typing animation](./assets/github-gif1.gif)
 
 <!-- START QUOTE -->
 
