@@ -2,13 +2,6 @@
 
 <img src="./assets/github-gif1_v2.gif" alt="Typing animation" width="300" height="auto" />
 
-<img src="https://raw.githubusercontent.com/SidusLunare/SidusLunare/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/SidusLunare/SidusLunare/output/snake.svg" alt="Snake animation" />
-
-###
 
 <details> 
   <summary><h2>Stats and Activity</h2></summary>
