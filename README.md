@@ -9,5 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidusLunare&layout=compact&theme=dark#gh-dark-mode-only)
 
+**Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react-dark#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
