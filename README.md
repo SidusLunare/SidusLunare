@@ -2,6 +2,14 @@
 
 <img src="./assets/github-gif1_v2.gif" alt="Typing animation" width="300" height="auto" />
 
+<img src="https://raw.githubusercontent.com/SidusLunare/SidusLunare/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/SidusLunare/SidusLunare/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SidusLunare&theme=dark)](https://git.io/streak-stats)
 
 [![Nova's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SidusLunare&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
