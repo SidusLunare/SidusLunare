@@ -2,7 +2,7 @@
 
 <img src="./assets/github-gif1_v2.gif" alt="Typing animation" width="300" height="auto" />
 
-<h2>Hello I am Nova, a Trans girl from Holland with a background in IT & Programming.<br/>
+<h2>Hello I am Nova, a Trans girl from Holland with a background in IT & Programming.<br/><br/>
 I love games and spend a lot of my freetime playing with friends online.<br/><br/>
 Shy and a little blunt at times, I can get very invested in the things I like for prolonged periods at a time. Relatives often trust me with IT problem solving</h2>
 
