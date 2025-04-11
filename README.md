@@ -4,8 +4,7 @@
 
 <h2>Hello I am Nova, a Trans girl from Holland with a background in IT & Programming. I love games and spend a lot of my freetime playing with friends online. Shy and a little blunt at times, I can get very invested in the things I like for prolonged periods at a time. Relatives often trust me with IT problem solving</h2>
 
-<details> 
-  <summary><h2>Stats and Activity</h2></summary>
+<h2>Stats and Activity</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SidusLunare&theme=dark)](https://git.io/streak-stats)
 
@@ -17,8 +16,6 @@
 
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react-dark#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
-
-</details>
 
 <details> 
   <summary><h2>My Languages</h2></summary>
