@@ -19,8 +19,7 @@ Shy and a little blunt at times, I can get very invested in the things I like fo
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 [![Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidusLunare&theme=react-dark#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 
-<details> 
-  <summary><h2>My Languages</h2></summary>
+<h2>My Languages</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <h3>Standard languages</h3>
         <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -39,4 +38,3 @@ Shy and a little blunt at times, I can get very invested in the things I like fo
         <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
         <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</details>
